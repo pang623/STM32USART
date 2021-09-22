@@ -1,0 +1,5 @@
+Usart.c:12:10:getUsartPeripheralBusFreq	16	static
+Usart.c:19:6:usartSetBaudRate	64	static
+Usart.c:28:6:usartConfigure	24	static
+Usart.c:34:6:usartSendChar	16	static
+Usart.c:41:5:usartSendString	32	static

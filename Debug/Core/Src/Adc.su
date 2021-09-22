@@ -1,0 +1,5 @@
+Adc.c:10:6:adcSetSampleTime	24	static
+Adc.c:15:6:configureADC	24	static
+Adc.c:22:6:adcSetChannelSequence	40	static
+Adc.c:29:6:adcCommonConfigure	16	static
+Adc.c:34:6:adcConfigureRegularChannel	16	static
